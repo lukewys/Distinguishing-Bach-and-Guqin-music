@@ -145,7 +145,6 @@ def get_interval_transition(interval1, interval2):
 
 
 def get_interval_transition_probability(interval_transition_count, bayesian_estimation=False, matrix_normalize=True):
-
     if bayesian_estimation:
         interval_transition_count += 1
     transfer_matrix = interval_transition_count
@@ -212,7 +211,7 @@ def show_two_interval_count(interval_count1, interval_count2, title, label1=None
     names = [str(i) for i in range(13)]
     index = np.arange(13)
     width = 0.4
-    fig, ax = plt.subplots(figsize=(fig_size + fig_size * 0.5, fig_size), dpi=dpi)
+    fig, ax = plt.subplots(figsize=(fig_size + fig_size * 0.5, fig_size * 1.05), dpi=dpi)
     ax.bar(index, height=list(interval_count1), width=width, label=label1, color='b')
     ax.bar(index + width, height=list(interval_count2), width=width, label=label2, color='g')
     ax.set_xlabel('Interval (semitones)')

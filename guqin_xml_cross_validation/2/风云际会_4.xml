@@ -2,13 +2,13 @@
 <!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
   <work>
-    <work-title>风云际会</work-title>
+    <work-title>风云际会_4</work-title>
   </work>
-  <movement-title>风云际会</movement-title>
+  <movement-title>风云际会_4</movement-title>
   <identification>
     <creator type="composer" />
     <encoding>
-      <encoding-date>2019-03-31</encoding-date>
+      <encoding-date>2019-07-09</encoding-date>
       <software>music21 v.5.5.0</software>
     </encoding>
   </identification>
@@ -19,12 +19,12 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P43f2775b829b762b3544d94b42d8d167">
+    <score-part id="Pcf9f52005563b576c97e143e5ebffc65">
       <part-name>Guqin</part-name>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P43f2775b829b762b3544d94b42d8d167">
+  <part id="Pcf9f52005563b576c97e143e5ebffc65">
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
       <attributes>

@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer" />
     <encoding>
-      <encoding-date>2019-05-03</encoding-date>
+      <encoding-date>2019-07-09</encoding-date>
       <software>music21 v.5.5.0</software>
     </encoding>
   </identification>
@@ -19,12 +19,12 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="Paf026bcca7edbafd4c76f88ea72092c0">
+    <score-part id="Pd62afe242a55fe6c1322a20deaf05d5e">
       <part-name>Guqin</part-name>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="Paf026bcca7edbafd4c76f88ea72092c0">
+  <part id="Pd62afe242a55fe6c1322a20deaf05d5e">
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
       <attributes>

@@ -2,13 +2,13 @@
 <!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="3.0">
   <work>
-    <work-title>佩兰</work-title>
+    <work-title>佩兰_11</work-title>
   </work>
-  <movement-title>佩兰</movement-title>
+  <movement-title>佩兰_11</movement-title>
   <identification>
     <creator type="composer" />
     <encoding>
-      <encoding-date>2019-03-31</encoding-date>
+      <encoding-date>2019-07-09</encoding-date>
       <software>music21 v.5.5.0</software>
     </encoding>
   </identification>
@@ -19,12 +19,12 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="Peaea86c4ec1c4efc00310851a2251798">
+    <score-part id="Pbaf2afbeef87a2dd221e999dc2dec085">
       <part-name>Guqin</part-name>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="Peaea86c4ec1c4efc00310851a2251798">
+  <part id="Pbaf2afbeef87a2dd221e999dc2dec085">
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
       <attributes>
